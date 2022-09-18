@@ -1,0 +1,25 @@
+{
+  "name": "suma-arreglos-desde-archivo",
+  "version": "1.0.0",
+  "description": "Primer entregable de clase 1 donde sumara los valores de un arreglo que proviene desde un archivo de texto.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresLeoFernandez/CFS2022II.git"
+  },
+  "author": "Andres Fernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndresLeoFernandez/CFS2022II/issues"
+  },
+  "homepage": "https://github.com/AndresLeoFernandez/CFS2022II#readme",
+  "dependencies": {
+    "typescript": "^4.8.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.18"
+  }
+}
