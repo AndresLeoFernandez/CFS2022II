@@ -4,6 +4,7 @@
   "description": "Primer entregable de clase 1 donde sumara los valores de un arreglo que proviene desde un archivo de texto.",
   "main": "index.js",
   "scripts": {
+    "ejecutar": "tsc index.ts && node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
