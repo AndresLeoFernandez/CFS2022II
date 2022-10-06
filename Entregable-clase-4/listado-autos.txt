@@ -1,0 +1,1 @@
+Prisma,Chevrolet,2015,ABC-001,mod1,marca-1,2012;206,Peugueot,2017,ACV-038,mod2,marca-2,2014;308,Peugueot,2018,ACV-030,mod3,marca-2,2015;3008,Peugueot,2017,ACZ-139,mod3,marca-2,2015;Siena,Fiat,2018,BCG-123,mod1,marca-3,2015;Fiorino,Fiat,2020,CTB-125,mod2,marca-3,2015
